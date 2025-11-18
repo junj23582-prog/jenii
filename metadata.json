@@ -1,0 +1,7 @@
+{
+  "name": "vibestudio",
+  "description": "A mobile-first Digital Audio Workstation (DAW) that leverages AI to simplify music creation. Features include multi-track recording, virtual instruments, audio effects, real-time collaboration, and AI-driven assistance for chord recognition, mastering, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
